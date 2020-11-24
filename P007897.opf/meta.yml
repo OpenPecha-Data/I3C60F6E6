@@ -3,5 +3,27 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W2DB25060
   title: གསུང་འབུམ། འུག་ཡུག་པ་རིགས་པའི་སེངྒེ
-  volume: ''
+  volume:
+    591bf2533dd84558bd8e2c6412eb0f86:
+      image_group_id: I1PD36273
+      title: Volume 1 of gsung 'bum/_'ug yug pa rigs pa'i seng ge
+      volume_number: 1
+      total_pages: 207
+    7d2f29eb86ad45fdba464e24fd625332:
+      image_group_id: I1PD36274
+      title: Volume 2 of gsung 'bum/_'ug yug pa rigs pa'i seng ge
+      volume_number: 2
+      total_pages: 244
+    2a2a86fdc0384916b9af05cb42b7ff62:
+      image_group_id: I1PD36275
+      title: Volume 3 of gsung 'bum/_'ug yug pa rigs pa'i seng ge
+      volume_number: 3
+      total_pages: 265
   author: ''
+ebook_metadata:
+  title: གསུང་འབུམ། འུག་ཡུག་པ་རིགས་པའི་སེངྒེ
+  author: ''
+  sku: P007897
+  cover: cover.jpg
+  layers:
+  - pagination
